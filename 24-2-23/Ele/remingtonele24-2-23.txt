@@ -1,0 +1,20 @@
+1) Ke zkratu dochází při přímém spojení dvou nebo více vodičů s
+různým elektrickým potenciálem nebo vodiče pod napětím s
+uzlem. Pokuď je uzel uzeměn, stává se zkratem i přímé spojení
+živého vodiče se zemí.
+
+2) Živé části jsou všechny vodiče vedoucí síťové napětí, kontakty, svorky, pojistkové a žárovkové objímky, apod.
+
+Neživé části jsou například elektronické obvody oddělené od sítě oddělovacími transformátory, kovové kostry a kryty přístrojů, 
+napájecí zdroje, kovové páčky a knoflíky, hřídele ovládacích prvků apod.
+
+3) K úrazu dochází průchodem proudu, nikoliv napětím.
+
+4) Jističe jsou samočinné vypínače pro
+rozpojení obvodu při překročení
+zkratového proudu. Mají jednoduchou obsluhu.
+
+Tavné pojistky při účinku většího proudu, než je proud
+jmenovitý, se po jisté době vlákno
+pojistky přetaví a proud se přeruší. Vyrábí se v různých konstrukčních
+provedeních pro proudy až 600 A.
