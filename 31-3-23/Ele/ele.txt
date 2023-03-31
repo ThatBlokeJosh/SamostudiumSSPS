@@ -1,0 +1,7 @@
+1) Základem všech elektrických strojů je elektromagnetická indukce
+2) Motor: Slouží k přeměně elektrické energie na mechanickou práci Genrátor: Slouží k přeměně mechanické energie na elektrickou
+3) Točivý elektromotor má dvě části: Stator-pevná část, která bývá vnější částí stroje, rotor-otočná část stroje smagnetickým obvodem
+4) Synchronní: Stejnosměrný proud Výhody: snadné řízení Nevýhody: konstrukčně náročné rozměry nutná údržba komutátoru
+Asynchronní: Střídavý proud Výhody: vysoká spolehlivost, jednoduchá konstrukce, životnost motor se rozbíhá sám Nevýhody: regulace rychlosti otáček
+5) Dynamo: Přeměňuje mechanickou energii na elektrickou ve formě stejnosměrného proudu, Alternátor: Přeměňuje kinetickou energii na elektrickou ve formě střídavého proudu
+6) Usměrňovačse používá k přeměně střídavého elektrického proudu na proud stejnosměrný
